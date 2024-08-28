@@ -1,0 +1,421 @@
+State,Domain,Sub-Domain,Government Fees (INR),Documents Required,Eligibility Criteria,State-Specific Variation,Processing Time (Days)
+Andhra Pradesh,Food,Restaurant,942,Health Clearance;ID Proof;Address Proof;Business License,Age: 21+; Permanent Residence: Yes; Taxable Income: ?60000+,State residency required,10
+Andhra Pradesh,Food,Catering,266,Safety Certificate;Business License,Age: 18+; Permanent Residence: No; Taxable Income: ?60000+,Additional certification required,7
+Andhra Pradesh,Food,Street Food,474,Address Proof;Tax Registration;ID Proof,Age: 25+; Permanent Residence: No; Taxable Income: ?60000+,Additional certification required,17
+Andhra Pradesh,Cloth,Boutique,712,Business License;Health Clearance;ID Proof,Age: 21+; Permanent Residence: Yes; Taxable Income: ?40000+,Additional certification required,26
+Andhra Pradesh,Cloth,Online Store,587,Address Proof;Safety Certificate;Health Clearance;Business License,Age: 25+; Permanent Residence: Yes; Taxable Income: ?40000+,No specific state variation,11
+Andhra Pradesh,Cloth,Garment Manufacturing,878,Safety Certificate;Health Clearance;Tax Registration;ID Proof,Age: 18+; Permanent Residence: No; Taxable Income: ?30000+,Additional certification required,9
+Andhra Pradesh,Real Estate,Agent,847,Address Proof;Health Clearance;ID Proof;Safety Certificate,Age: 18+; Permanent Residence: No; Taxable Income: ?60000+,Additional certification required,29
+Andhra Pradesh,Real Estate,Broker,649,Address Proof;ID Proof;Business License,Age: 18+; Permanent Residence: No; Taxable Income: ?40000+,State residency required,19
+Andhra Pradesh,Real Estate,Property Management,298,Safety Certificate;Tax Registration;Address Proof,Age: 25+; Permanent Residence: Yes; Taxable Income: ?40000+,Additional certification required,20
+Andhra Pradesh,Travel,Travel Agency,906,Health Clearance;Tax Registration;ID Proof;Address Proof,Age: 25+; Permanent Residence: Yes; Taxable Income: ?50000+,Additional certification required,8
+Andhra Pradesh,Travel,Tour Guide,920,Address Proof;ID Proof,Age: 18+; Permanent Residence: Yes; Taxable Income: ?40000+,State residency required,29
+Andhra Pradesh,Travel,Transport Services,475,Health Clearance;ID Proof,Age: 18+; Permanent Residence: Yes; Taxable Income: ?50000+,State residency required,11
+Andhra Pradesh,Metalworks,Fabrication,293,Safety Certificate;Tax Registration,Age: 21+; Permanent Residence: No; Taxable Income: ?40000+,No specific state variation,24
+Andhra Pradesh,Metalworks,Blacksmithing,482,ID Proof;Address Proof;Business License;Tax Registration,Age: 18+; Permanent Residence: Yes; Taxable Income: ?30000+,Additional certification required,20
+Andhra Pradesh,Metalworks,Welding,383,ID Proof;Tax Registration;Health Clearance;Business License,Age: 18+; Permanent Residence: No; Taxable Income: ?60000+,Additional certification required,8
+Arunachal Pradesh,Food,Restaurant,439,Tax Registration;Address Proof;ID Proof,Age: 25+; Permanent Residence: No; Taxable Income: ?30000+,No specific state variation,21
+Arunachal Pradesh,Food,Catering,697,Health Clearance;ID Proof,Age: 21+; Permanent Residence: Yes; Taxable Income: ?60000+,State residency required,27
+Arunachal Pradesh,Food,Street Food,929,Safety Certificate;Address Proof,Age: 18+; Permanent Residence: No; Taxable Income: ?50000+,No specific state variation,22
+Arunachal Pradesh,Cloth,Boutique,622,ID Proof;Address Proof;Business License,Age: 21+; Permanent Residence: Yes; Taxable Income: ?30000+,Additional certification required,9
+Arunachal Pradesh,Cloth,Online Store,690,Safety Certificate;Tax Registration;ID Proof,Age: 18+; Permanent Residence: Yes; Taxable Income: ?60000+,No specific state variation,16
+Arunachal Pradesh,Cloth,Garment Manufacturing,995,Safety Certificate;Business License,Age: 25+; Permanent Residence: No; Taxable Income: ?40000+,No specific state variation,14
+Arunachal Pradesh,Real Estate,Agent,619,Address Proof;ID Proof;Safety Certificate,Age: 21+; Permanent Residence: Yes; Taxable Income: ?40000+,State residency required,18
+Arunachal Pradesh,Real Estate,Broker,583,Health Clearance;Tax Registration;Safety Certificate,Age: 21+; Permanent Residence: Yes; Taxable Income: ?50000+,Additional certification required,24
+Arunachal Pradesh,Real Estate,Property Management,605,Business License;ID Proof;Health Clearance,Age: 18+; Permanent Residence: Yes; Taxable Income: ?60000+,Additional certification required,17
+Arunachal Pradesh,Travel,Travel Agency,514,Health Clearance;Safety Certificate,Age: 18+; Permanent Residence: No; Taxable Income: ?40000+,Additional certification required,11
+Arunachal Pradesh,Travel,Tour Guide,683,Tax Registration;ID Proof;Business License;Health Clearance,Age: 18+; Permanent Residence: No; Taxable Income: ?40000+,State residency required,30
+Arunachal Pradesh,Travel,Transport Services,163,ID Proof;Health Clearance;Business License;Tax Registration,Age: 30+; Permanent Residence: Yes; Taxable Income: ?40000+,State residency required,28
+Arunachal Pradesh,Metalworks,Fabrication,410,Business License;ID Proof;Address Proof,Age: 30+; Permanent Residence: Yes; Taxable Income: ?40000+,State residency required,16
+Arunachal Pradesh,Metalworks,Blacksmithing,448,ID Proof;Health Clearance;Tax Registration;Business License,Age: 18+; Permanent Residence: No; Taxable Income: ?40000+,No specific state variation,18
+Arunachal Pradesh,Metalworks,Welding,210,Business License;Tax Registration;Health Clearance;ID Proof,Age: 18+; Permanent Residence: Yes; Taxable Income: ?30000+,No specific state variation,28
+Assam,Food,Restaurant,846,Health Clearance;Tax Registration;Address Proof,Age: 18+; Permanent Residence: Yes; Taxable Income: ?60000+,State residency required,15
+Assam,Food,Catering,311,Health Clearance;Tax Registration;ID Proof;Business License,Age: 21+; Permanent Residence: No; Taxable Income: ?40000+,State residency required,8
+Assam,Food,Street Food,268,Address Proof;Health Clearance,Age: 30+; Permanent Residence: Yes; Taxable Income: ?50000+,Additional certification required,24
+Assam,Cloth,Boutique,415,Business License;ID Proof,Age: 18+; Permanent Residence: No; Taxable Income: ?50000+,Additional certification required,12
+Assam,Cloth,Online Store,918,Address Proof;Health Clearance;Safety Certificate,Age: 30+; Permanent Residence: No; Taxable Income: ?50000+,State residency required,25
+Assam,Cloth,Garment Manufacturing,172,ID Proof;Safety Certificate;Address Proof;Health Clearance,Age: 18+; Permanent Residence: No; Taxable Income: ?30000+,No specific state variation,14
+Assam,Real Estate,Agent,602,Business License;Health Clearance;Safety Certificate;ID Proof,Age: 18+; Permanent Residence: No; Taxable Income: ?40000+,No specific state variation,26
+Assam,Real Estate,Broker,892,ID Proof;Business License;Tax Registration;Address Proof,Age: 30+; Permanent Residence: No; Taxable Income: ?60000+,State residency required,28
+Assam,Real Estate,Property Management,414,Tax Registration;ID Proof;Health Clearance;Address Proof,Age: 30+; Permanent Residence: Yes; Taxable Income: ?60000+,Additional certification required,30
+Assam,Travel,Travel Agency,994,Address Proof;Tax Registration,Age: 30+; Permanent Residence: No; Taxable Income: ?30000+,No specific state variation,7
+Assam,Travel,Tour Guide,390,Health Clearance;Business License;Address Proof;Tax Registration,Age: 18+; Permanent Residence: Yes; Taxable Income: ?30000+,Additional certification required,22
+Assam,Travel,Transport Services,858,Health Clearance;ID Proof;Tax Registration;Business License,Age: 25+; Permanent Residence: Yes; Taxable Income: ?30000+,State residency required,17
+Assam,Metalworks,Fabrication,346,ID Proof;Health Clearance,Age: 18+; Permanent Residence: No; Taxable Income: ?60000+,State residency required,22
+Assam,Metalworks,Blacksmithing,321,ID Proof;Tax Registration;Safety Certificate;Health Clearance,Age: 30+; Permanent Residence: No; Taxable Income: ?30000+,State residency required,25
+Assam,Metalworks,Welding,934,Tax Registration;Safety Certificate;Health Clearance;Address Proof,Age: 21+; Permanent Residence: Yes; Taxable Income: ?40000+,No specific state variation,18
+Bihar,Food,Restaurant,340,Address Proof;Health Clearance;Business License,Age: 18+; Permanent Residence: No; Taxable Income: ?40000+,State residency required,17
+Bihar,Food,Catering,718,Health Clearance;ID Proof,Age: 18+; Permanent Residence: No; Taxable Income: ?40000+,Additional certification required,18
+Bihar,Food,Street Food,775,Business License;Tax Registration;Safety Certificate;Health Clearance,Age: 18+; Permanent Residence: Yes; Taxable Income: ?50000+,Additional certification required,16
+Bihar,Cloth,Boutique,379,Business License;Tax Registration,Age: 18+; Permanent Residence: No; Taxable Income: ?60000+,No specific state variation,29
+Bihar,Cloth,Online Store,332,Safety Certificate;Health Clearance;Address Proof,Age: 18+; Permanent Residence: No; Taxable Income: ?30000+,Additional certification required,13
+Bihar,Cloth,Garment Manufacturing,735,Business License;Address Proof;Tax Registration,Age: 25+; Permanent Residence: No; Taxable Income: ?60000+,No specific state variation,11
+Bihar,Real Estate,Agent,115,ID Proof;Business License,Age: 30+; Permanent Residence: Yes; Taxable Income: ?50000+,No specific state variation,19
+Bihar,Real Estate,Broker,920,Address Proof;Business License;ID Proof,Age: 18+; Permanent Residence: Yes; Taxable Income: ?60000+,Additional certification required,19
+Bihar,Real Estate,Property Management,677,Health Clearance;Address Proof,Age: 30+; Permanent Residence: No; Taxable Income: ?30000+,No specific state variation,23
+Bihar,Travel,Travel Agency,243,Address Proof;Business License;Tax Registration;Health Clearance,Age: 25+; Permanent Residence: No; Taxable Income: ?40000+,State residency required,18
+Bihar,Travel,Tour Guide,993,Tax Registration;Health Clearance;Safety Certificate,Age: 21+; Permanent Residence: Yes; Taxable Income: ?40000+,No specific state variation,27
+Bihar,Travel,Transport Services,336,Tax Registration;Business License;ID Proof;Address Proof,Age: 18+; Permanent Residence: No; Taxable Income: ?30000+,No specific state variation,29
+Bihar,Metalworks,Fabrication,703,ID Proof;Health Clearance,Age: 18+; Permanent Residence: Yes; Taxable Income: ?60000+,No specific state variation,7
+Bihar,Metalworks,Blacksmithing,306,Health Clearance;ID Proof;Safety Certificate;Tax Registration,Age: 25+; Permanent Residence: No; Taxable Income: ?30000+,State residency required,28
+Bihar,Metalworks,Welding,867,ID Proof;Health Clearance,Age: 21+; Permanent Residence: Yes; Taxable Income: ?30000+,Additional certification required,24
+Chhattisgarh,Food,Restaurant,721,ID Proof;Address Proof,Age: 18+; Permanent Residence: Yes; Taxable Income: ?30000+,No specific state variation,23
+Chhattisgarh,Food,Catering,533,ID Proof;Business License,Age: 30+; Permanent Residence: No; Taxable Income: ?50000+,State residency required,29
+Chhattisgarh,Food,Street Food,214,Address Proof;Safety Certificate;Business License;Tax Registration,Age: 21+; Permanent Residence: Yes; Taxable Income: ?60000+,State residency required,15
+Chhattisgarh,Cloth,Boutique,584,Business License;Health Clearance;ID Proof,Age: 25+; Permanent Residence: No; Taxable Income: ?30000+,Additional certification required,25
+Chhattisgarh,Cloth,Online Store,488,ID Proof;Tax Registration,Age: 30+; Permanent Residence: No; Taxable Income: ?60000+,Additional certification required,13
+Chhattisgarh,Cloth,Garment Manufacturing,297,ID Proof;Tax Registration;Safety Certificate,Age: 21+; Permanent Residence: No; Taxable Income: ?30000+,State residency required,30
+Chhattisgarh,Real Estate,Agent,167,Tax Registration;Business License;Address Proof;ID Proof,Age: 21+; Permanent Residence: No; Taxable Income: ?40000+,Additional certification required,25
+Chhattisgarh,Real Estate,Broker,660,Address Proof;ID Proof,Age: 30+; Permanent Residence: No; Taxable Income: ?50000+,State residency required,15
+Chhattisgarh,Real Estate,Property Management,901,Health Clearance;Business License,Age: 25+; Permanent Residence: No; Taxable Income: ?50000+,State residency required,12
+Chhattisgarh,Travel,Travel Agency,137,ID Proof;Business License;Address Proof;Health Clearance,Age: 21+; Permanent Residence: Yes; Taxable Income: ?50000+,State residency required,11
+Chhattisgarh,Travel,Tour Guide,317,ID Proof;Tax Registration;Business License;Address Proof,Age: 18+; Permanent Residence: No; Taxable Income: ?40000+,Additional certification required,20
+Chhattisgarh,Travel,Transport Services,952,Health Clearance;Tax Registration,Age: 18+; Permanent Residence: Yes; Taxable Income: ?50000+,Additional certification required,25
+Chhattisgarh,Metalworks,Fabrication,848,Safety Certificate;Health Clearance;Business License;Tax Registration,Age: 18+; Permanent Residence: No; Taxable Income: ?40000+,No specific state variation,17
+Chhattisgarh,Metalworks,Blacksmithing,383,ID Proof;Health Clearance;Address Proof;Tax Registration,Age: 18+; Permanent Residence: No; Taxable Income: ?60000+,State residency required,10
+Chhattisgarh,Metalworks,Welding,239,Business License;ID Proof,Age: 30+; Permanent Residence: No; Taxable Income: ?60000+,State residency required,16
+Goa,Food,Restaurant,708,ID Proof;Business License;Safety Certificate,Age: 21+; Permanent Residence: Yes; Taxable Income: ?30000+,No specific state variation,22
+Goa,Food,Catering,975,Health Clearance;Safety Certificate,Age: 25+; Permanent Residence: No; Taxable Income: ?30000+,Additional certification required,15
+Goa,Food,Street Food,256,Tax Registration;ID Proof;Business License;Health Clearance,Age: 25+; Permanent Residence: Yes; Taxable Income: ?30000+,State residency required,16
+Goa,Cloth,Boutique,118,ID Proof;Address Proof;Tax Registration;Safety Certificate,Age: 30+; Permanent Residence: No; Taxable Income: ?50000+,No specific state variation,11
+Goa,Cloth,Online Store,766,Health Clearance;Business License;Address Proof;ID Proof,Age: 18+; Permanent Residence: No; Taxable Income: ?50000+,State residency required,22
+Goa,Cloth,Garment Manufacturing,148,Address Proof;Business License,Age: 25+; Permanent Residence: Yes; Taxable Income: ?60000+,Additional certification required,17
+Goa,Real Estate,Agent,279,ID Proof;Health Clearance,Age: 18+; Permanent Residence: Yes; Taxable Income: ?50000+,No specific state variation,21
+Goa,Real Estate,Broker,168,Health Clearance;Business License;Safety Certificate;ID Proof,Age: 21+; Permanent Residence: No; Taxable Income: ?40000+,Additional certification required,22
+Goa,Real Estate,Property Management,413,Business License;Health Clearance;Safety Certificate,Age: 25+; Permanent Residence: Yes; Taxable Income: ?50000+,Additional certification required,17
+Goa,Travel,Travel Agency,936,Health Clearance;Safety Certificate;Address Proof,Age: 30+; Permanent Residence: No; Taxable Income: ?50000+,State residency required,25
+Goa,Travel,Tour Guide,668,Safety Certificate;Tax Registration;ID Proof;Address Proof,Age: 30+; Permanent Residence: Yes; Taxable Income: ?60000+,State residency required,8
+Goa,Travel,Transport Services,156,ID Proof;Address Proof;Tax Registration,Age: 21+; Permanent Residence: Yes; Taxable Income: ?50000+,No specific state variation,23
+Goa,Metalworks,Fabrication,989,ID Proof;Business License;Address Proof,Age: 30+; Permanent Residence: No; Taxable Income: ?40000+,No specific state variation,9
+Goa,Metalworks,Blacksmithing,968,Business License;Safety Certificate;Tax Registration;ID Proof,Age: 18+; Permanent Residence: No; Taxable Income: ?40000+,State residency required,7
+Goa,Metalworks,Welding,543,Address Proof;Safety Certificate;ID Proof,Age: 25+; Permanent Residence: No; Taxable Income: ?50000+,Additional certification required,17
+Gujarat,Food,Restaurant,360,Health Clearance;Business License;Safety Certificate;ID Proof,Age: 21+; Permanent Residence: No; Taxable Income: ?60000+,Additional certification required,24
+Gujarat,Food,Catering,802,Address Proof;Tax Registration;Safety Certificate,Age: 25+; Permanent Residence: Yes; Taxable Income: ?30000+,No specific state variation,28
+Gujarat,Food,Street Food,368,Tax Registration;ID Proof;Address Proof,Age: 25+; Permanent Residence: No; Taxable Income: ?30000+,No specific state variation,18
+Gujarat,Cloth,Boutique,369,ID Proof;Business License;Safety Certificate,Age: 18+; Permanent Residence: No; Taxable Income: ?40000+,No specific state variation,16
+Gujarat,Cloth,Online Store,120,Health Clearance;ID Proof;Safety Certificate,Age: 25+; Permanent Residence: Yes; Taxable Income: ?30000+,State residency required,10
+Gujarat,Cloth,Garment Manufacturing,413,ID Proof;Business License;Tax Registration;Safety Certificate,Age: 30+; Permanent Residence: Yes; Taxable Income: ?40000+,No specific state variation,25
+Gujarat,Real Estate,Agent,324,Health Clearance;Business License,Age: 30+; Permanent Residence: Yes; Taxable Income: ?40000+,Additional certification required,28
+Gujarat,Real Estate,Broker,932,Address Proof;Tax Registration;Health Clearance,Age: 30+; Permanent Residence: No; Taxable Income: ?60000+,No specific state variation,8
+Gujarat,Real Estate,Property Management,714,ID Proof;Tax Registration,Age: 21+; Permanent Residence: No; Taxable Income: ?40000+,Additional certification required,7
+Gujarat,Travel,Travel Agency,160,Address Proof;Safety Certificate;Business License;ID Proof,Age: 21+; Permanent Residence: Yes; Taxable Income: ?30000+,State residency required,21
+Gujarat,Travel,Tour Guide,335,ID Proof;Tax Registration;Business License;Health Clearance,Age: 21+; Permanent Residence: Yes; Taxable Income: ?50000+,State residency required,23
+Gujarat,Travel,Transport Services,131,Safety Certificate;Business License,Age: 18+; Permanent Residence: No; Taxable Income: ?50000+,State residency required,11
+Gujarat,Metalworks,Fabrication,372,Address Proof;Business License,Age: 25+; Permanent Residence: No; Taxable Income: ?40000+,No specific state variation,16
+Gujarat,Metalworks,Blacksmithing,691,Business License;Address Proof,Age: 18+; Permanent Residence: No; Taxable Income: ?30000+,State residency required,13
+Gujarat,Metalworks,Welding,428,Tax Registration;Health Clearance;ID Proof;Address Proof,Age: 30+; Permanent Residence: Yes; Taxable Income: ?50000+,State residency required,11
+Haryana,Food,Restaurant,651,Health Clearance;Business License,Age: 21+; Permanent Residence: Yes; Taxable Income: ?60000+,State residency required,15
+Haryana,Food,Catering,350,Safety Certificate;Address Proof;ID Proof,Age: 21+; Permanent Residence: Yes; Taxable Income: ?30000+,Additional certification required,13
+Haryana,Food,Street Food,423,Business License;Health Clearance;Address Proof;Tax Registration,Age: 21+; Permanent Residence: No; Taxable Income: ?50000+,Additional certification required,19
+Haryana,Cloth,Boutique,804,Business License;Health Clearance;Tax Registration,Age: 21+; Permanent Residence: No; Taxable Income: ?60000+,Additional certification required,9
+Haryana,Cloth,Online Store,549,Address Proof;Tax Registration;Safety Certificate;Health Clearance,Age: 21+; Permanent Residence: No; Taxable Income: ?50000+,No specific state variation,19
+Haryana,Cloth,Garment Manufacturing,505,Address Proof;Safety Certificate;Business License;Tax Registration,Age: 21+; Permanent Residence: Yes; Taxable Income: ?30000+,State residency required,26
+Haryana,Real Estate,Agent,282,Tax Registration;Business License,Age: 21+; Permanent Residence: Yes; Taxable Income: ?60000+,State residency required,11
+Haryana,Real Estate,Broker,585,Address Proof;Safety Certificate;Business License;Health Clearance,Age: 25+; Permanent Residence: No; Taxable Income: ?40000+,No specific state variation,28
+Haryana,Real Estate,Property Management,496,ID Proof;Health Clearance,Age: 18+; Permanent Residence: No; Taxable Income: ?40000+,Additional certification required,22
+Haryana,Travel,Travel Agency,824,ID Proof;Tax Registration,Age: 21+; Permanent Residence: No; Taxable Income: ?30000+,No specific state variation,29
+Haryana,Travel,Tour Guide,917,ID Proof;Tax Registration,Age: 30+; Permanent Residence: Yes; Taxable Income: ?60000+,No specific state variation,15
+Haryana,Travel,Transport Services,879,Health Clearance;Business License;Safety Certificate;Tax Registration,Age: 30+; Permanent Residence: No; Taxable Income: ?60000+,State residency required,13
+Haryana,Metalworks,Fabrication,626,ID Proof;Business License;Health Clearance,Age: 25+; Permanent Residence: No; Taxable Income: ?40000+,State residency required,7
+Haryana,Metalworks,Blacksmithing,302,ID Proof;Safety Certificate,Age: 21+; Permanent Residence: Yes; Taxable Income: ?40000+,Additional certification required,15
+Haryana,Metalworks,Welding,753,Address Proof;ID Proof;Business License;Health Clearance,Age: 30+; Permanent Residence: Yes; Taxable Income: ?30000+,No specific state variation,24
+Himachal Pradesh,Food,Restaurant,207,Address Proof;Business License;Health Clearance,Age: 25+; Permanent Residence: No; Taxable Income: ?30000+,Additional certification required,28
+Himachal Pradesh,Food,Catering,752,Address Proof;Tax Registration;Business License;Health Clearance,Age: 21+; Permanent Residence: No; Taxable Income: ?40000+,No specific state variation,16
+Himachal Pradesh,Food,Street Food,253,Business License;ID Proof;Address Proof,Age: 30+; Permanent Residence: Yes; Taxable Income: ?60000+,State residency required,26
+Himachal Pradesh,Cloth,Boutique,290,Safety Certificate;Health Clearance,Age: 25+; Permanent Residence: No; Taxable Income: ?30000+,No specific state variation,8
+Himachal Pradesh,Cloth,Online Store,863,Safety Certificate;Address Proof,Age: 18+; Permanent Residence: Yes; Taxable Income: ?50000+,Additional certification required,7
+Himachal Pradesh,Cloth,Garment Manufacturing,495,Safety Certificate;Business License,Age: 25+; Permanent Residence: Yes; Taxable Income: ?40000+,No specific state variation,7
+Himachal Pradesh,Real Estate,Agent,987,ID Proof;Safety Certificate;Address Proof,Age: 18+; Permanent Residence: Yes; Taxable Income: ?30000+,Additional certification required,10
+Himachal Pradesh,Real Estate,Broker,235,Tax Registration;Safety Certificate;ID Proof,Age: 30+; Permanent Residence: No; Taxable Income: ?40000+,State residency required,21
+Himachal Pradesh,Real Estate,Property Management,876,Health Clearance;Tax Registration;Address Proof;ID Proof,Age: 18+; Permanent Residence: Yes; Taxable Income: ?60000+,Additional certification required,11
+Himachal Pradesh,Travel,Travel Agency,446,Tax Registration;ID Proof;Safety Certificate,Age: 25+; Permanent Residence: Yes; Taxable Income: ?40000+,No specific state variation,27
+Himachal Pradesh,Travel,Tour Guide,389,Business License;ID Proof;Health Clearance;Safety Certificate,Age: 25+; Permanent Residence: Yes; Taxable Income: ?40000+,State residency required,25
+Himachal Pradesh,Travel,Transport Services,872,ID Proof;Health Clearance;Safety Certificate;Business License,Age: 18+; Permanent Residence: Yes; Taxable Income: ?40000+,State residency required,20
+Himachal Pradesh,Metalworks,Fabrication,579,Health Clearance;Address Proof;Tax Registration;Safety Certificate,Age: 30+; Permanent Residence: Yes; Taxable Income: ?50000+,No specific state variation,13
+Himachal Pradesh,Metalworks,Blacksmithing,580,Tax Registration;Health Clearance;Safety Certificate;Business License,Age: 30+; Permanent Residence: No; Taxable Income: ?50000+,Additional certification required,22
+Himachal Pradesh,Metalworks,Welding,925,Tax Registration;Business License;Safety Certificate,Age: 21+; Permanent Residence: No; Taxable Income: ?50000+,State residency required,14
+Jharkhand,Food,Restaurant,743,Safety Certificate;Address Proof,Age: 25+; Permanent Residence: No; Taxable Income: ?60000+,Additional certification required,7
+Jharkhand,Food,Catering,290,Address Proof;Health Clearance;ID Proof,Age: 25+; Permanent Residence: Yes; Taxable Income: ?60000+,Additional certification required,7
+Jharkhand,Food,Street Food,704,ID Proof;Tax Registration,Age: 21+; Permanent Residence: No; Taxable Income: ?40000+,Additional certification required,20
+Jharkhand,Cloth,Boutique,737,Address Proof;Tax Registration;Health Clearance,Age: 30+; Permanent Residence: No; Taxable Income: ?40000+,State residency required,9
+Jharkhand,Cloth,Online Store,149,Tax Registration;Address Proof;Safety Certificate,Age: 21+; Permanent Residence: Yes; Taxable Income: ?50000+,State residency required,25
+Jharkhand,Cloth,Garment Manufacturing,788,Business License;Safety Certificate,Age: 30+; Permanent Residence: No; Taxable Income: ?40000+,No specific state variation,15
+Jharkhand,Real Estate,Agent,155,ID Proof;Health Clearance,Age: 25+; Permanent Residence: Yes; Taxable Income: ?30000+,State residency required,9
+Jharkhand,Real Estate,Broker,804,Tax Registration;Health Clearance;Business License,Age: 18+; Permanent Residence: No; Taxable Income: ?40000+,State residency required,21
+Jharkhand,Real Estate,Property Management,995,Health Clearance;Tax Registration,Age: 30+; Permanent Residence: Yes; Taxable Income: ?30000+,State residency required,20
+Jharkhand,Travel,Travel Agency,413,Health Clearance;Tax Registration;Address Proof;Safety Certificate,Age: 25+; Permanent Residence: No; Taxable Income: ?40000+,No specific state variation,11
+Jharkhand,Travel,Tour Guide,852,Tax Registration;Address Proof;Health Clearance,Age: 25+; Permanent Residence: No; Taxable Income: ?60000+,No specific state variation,16
+Jharkhand,Travel,Transport Services,444,Health Clearance;Address Proof;Business License;Safety Certificate,Age: 21+; Permanent Residence: Yes; Taxable Income: ?40000+,State residency required,24
+Jharkhand,Metalworks,Fabrication,496,Address Proof;Tax Registration,Age: 25+; Permanent Residence: No; Taxable Income: ?40000+,No specific state variation,17
+Jharkhand,Metalworks,Blacksmithing,533,ID Proof;Business License;Safety Certificate;Tax Registration,Age: 18+; Permanent Residence: No; Taxable Income: ?30000+,Additional certification required,17
+Jharkhand,Metalworks,Welding,758,Address Proof;Tax Registration;ID Proof,Age: 21+; Permanent Residence: Yes; Taxable Income: ?50000+,Additional certification required,10
+Karnataka,Food,Restaurant,337,Tax Registration;ID Proof;Address Proof,Age: 18+; Permanent Residence: Yes; Taxable Income: ?60000+,State residency required,22
+Karnataka,Food,Catering,504,Safety Certificate;Business License;ID Proof,Age: 18+; Permanent Residence: No; Taxable Income: ?30000+,Additional certification required,17
+Karnataka,Food,Street Food,684,Health Clearance;Safety Certificate;Business License;ID Proof,Age: 30+; Permanent Residence: No; Taxable Income: ?50000+,Additional certification required,7
+Karnataka,Cloth,Boutique,368,Address Proof;Business License,Age: 25+; Permanent Residence: Yes; Taxable Income: ?60000+,Additional certification required,21
+Karnataka,Cloth,Online Store,222,Address Proof;Safety Certificate;Tax Registration,Age: 25+; Permanent Residence: Yes; Taxable Income: ?40000+,No specific state variation,13
+Karnataka,Cloth,Garment Manufacturing,275,Safety Certificate;Health Clearance;Address Proof,Age: 21+; Permanent Residence: No; Taxable Income: ?30000+,State residency required,21
+Karnataka,Real Estate,Agent,231,Health Clearance;Tax Registration;Safety Certificate,Age: 21+; Permanent Residence: No; Taxable Income: ?60000+,No specific state variation,8
+Karnataka,Real Estate,Broker,398,Health Clearance;Address Proof;Safety Certificate,Age: 21+; Permanent Residence: No; Taxable Income: ?30000+,State residency required,26
+Karnataka,Real Estate,Property Management,528,Health Clearance;Tax Registration,Age: 18+; Permanent Residence: No; Taxable Income: ?40000+,State residency required,20
+Karnataka,Travel,Travel Agency,301,Tax Registration;Business License;Safety Certificate;Health Clearance,Age: 30+; Permanent Residence: Yes; Taxable Income: ?50000+,Additional certification required,8
+Karnataka,Travel,Tour Guide,653,Safety Certificate;Business License,Age: 18+; Permanent Residence: Yes; Taxable Income: ?60000+,State residency required,22
+Karnataka,Travel,Transport Services,853,Business License;Tax Registration,Age: 18+; Permanent Residence: Yes; Taxable Income: ?50000+,State residency required,22
+Karnataka,Metalworks,Fabrication,476,Safety Certificate;Business License,Age: 25+; Permanent Residence: No; Taxable Income: ?60000+,Additional certification required,24
+Karnataka,Metalworks,Blacksmithing,552,ID Proof;Tax Registration;Safety Certificate;Business License,Age: 18+; Permanent Residence: No; Taxable Income: ?30000+,State residency required,20
+Karnataka,Metalworks,Welding,835,Address Proof;Safety Certificate,Age: 30+; Permanent Residence: Yes; Taxable Income: ?40000+,Additional certification required,10
+Kerala,Food,Restaurant,207,Health Clearance;Address Proof,Age: 21+; Permanent Residence: No; Taxable Income: ?40000+,State residency required,14
+Kerala,Food,Catering,467,Address Proof;Tax Registration;ID Proof;Health Clearance,Age: 18+; Permanent Residence: No; Taxable Income: ?50000+,State residency required,7
+Kerala,Food,Street Food,901,Health Clearance;Address Proof;ID Proof;Tax Registration,Age: 21+; Permanent Residence: Yes; Taxable Income: ?30000+,No specific state variation,19
+Kerala,Cloth,Boutique,476,ID Proof;Business License;Tax Registration;Address Proof,Age: 30+; Permanent Residence: No; Taxable Income: ?30000+,Additional certification required,22
+Kerala,Cloth,Online Store,261,ID Proof;Tax Registration,Age: 30+; Permanent Residence: No; Taxable Income: ?40000+,Additional certification required,19
+Kerala,Cloth,Garment Manufacturing,673,Address Proof;Tax Registration;Business License,Age: 25+; Permanent Residence: Yes; Taxable Income: ?30000+,State residency required,7
+Kerala,Real Estate,Agent,315,Tax Registration;Address Proof,Age: 21+; Permanent Residence: Yes; Taxable Income: ?40000+,Additional certification required,15
+Kerala,Real Estate,Broker,366,Health Clearance;Safety Certificate;Tax Registration;ID Proof,Age: 25+; Permanent Residence: No; Taxable Income: ?30000+,Additional certification required,28
+Kerala,Real Estate,Property Management,124,Business License;Safety Certificate,Age: 30+; Permanent Residence: Yes; Taxable Income: ?40000+,Additional certification required,23
+Kerala,Travel,Travel Agency,389,Health Clearance;Tax Registration,Age: 30+; Permanent Residence: No; Taxable Income: ?40000+,No specific state variation,12
+Kerala,Travel,Tour Guide,864,ID Proof;Safety Certificate;Business License;Address Proof,Age: 21+; Permanent Residence: No; Taxable Income: ?50000+,Additional certification required,23
+Kerala,Travel,Transport Services,801,Address Proof;Health Clearance;ID Proof,Age: 25+; Permanent Residence: Yes; Taxable Income: ?40000+,No specific state variation,8
+Kerala,Metalworks,Fabrication,235,Tax Registration;Health Clearance;Safety Certificate,Age: 25+; Permanent Residence: Yes; Taxable Income: ?50000+,Additional certification required,14
+Kerala,Metalworks,Blacksmithing,457,Address Proof;Business License;Tax Registration;ID Proof,Age: 25+; Permanent Residence: Yes; Taxable Income: ?30000+,No specific state variation,25
+Kerala,Metalworks,Welding,728,Address Proof;ID Proof;Business License,Age: 18+; Permanent Residence: No; Taxable Income: ?30000+,State residency required,20
+Madhya Pradesh,Food,Restaurant,702,Health Clearance;Address Proof;Tax Registration,Age: 30+; Permanent Residence: Yes; Taxable Income: ?40000+,No specific state variation,21
+Madhya Pradesh,Food,Catering,888,Health Clearance;ID Proof;Safety Certificate;Address Proof,Age: 25+; Permanent Residence: Yes; Taxable Income: ?60000+,Additional certification required,19
+Madhya Pradesh,Food,Street Food,926,Address Proof;Tax Registration;Business License;ID Proof,Age: 25+; Permanent Residence: No; Taxable Income: ?30000+,State residency required,12
+Madhya Pradesh,Cloth,Boutique,823,ID Proof;Tax Registration,Age: 21+; Permanent Residence: Yes; Taxable Income: ?30000+,State residency required,18
+Madhya Pradesh,Cloth,Online Store,930,Business License;ID Proof;Safety Certificate,Age: 21+; Permanent Residence: Yes; Taxable Income: ?60000+,No specific state variation,23
+Madhya Pradesh,Cloth,Garment Manufacturing,965,Safety Certificate;Health Clearance;Tax Registration,Age: 25+; Permanent Residence: Yes; Taxable Income: ?60000+,No specific state variation,23
+Madhya Pradesh,Real Estate,Agent,537,Business License;ID Proof;Address Proof,Age: 21+; Permanent Residence: Yes; Taxable Income: ?40000+,State residency required,23
+Madhya Pradesh,Real Estate,Broker,608,Address Proof;Tax Registration;ID Proof;Safety Certificate,Age: 30+; Permanent Residence: No; Taxable Income: ?30000+,Additional certification required,19
+Madhya Pradesh,Real Estate,Property Management,720,Address Proof;Safety Certificate,Age: 30+; Permanent Residence: Yes; Taxable Income: ?50000+,Additional certification required,28
+Madhya Pradesh,Travel,Travel Agency,702,Tax Registration;Safety Certificate,Age: 21+; Permanent Residence: No; Taxable Income: ?50000+,No specific state variation,20
+Madhya Pradesh,Travel,Tour Guide,381,Health Clearance;Tax Registration;ID Proof;Business License,Age: 30+; Permanent Residence: Yes; Taxable Income: ?60000+,Additional certification required,16
+Madhya Pradesh,Travel,Transport Services,496,Health Clearance;Address Proof,Age: 21+; Permanent Residence: Yes; Taxable Income: ?30000+,State residency required,7
+Madhya Pradesh,Metalworks,Fabrication,573,Address Proof;ID Proof;Tax Registration;Health Clearance,Age: 25+; Permanent Residence: No; Taxable Income: ?30000+,Additional certification required,22
+Madhya Pradesh,Metalworks,Blacksmithing,748,Tax Registration;Address Proof;Safety Certificate,Age: 30+; Permanent Residence: No; Taxable Income: ?50000+,Additional certification required,15
+Madhya Pradesh,Metalworks,Welding,465,ID Proof;Safety Certificate;Health Clearance,Age: 18+; Permanent Residence: No; Taxable Income: ?30000+,State residency required,28
+Maharashtra,Food,Restaurant,823,Health Clearance;Tax Registration;Address Proof;Business License,Age: 21+; Permanent Residence: Yes; Taxable Income: ?40000+,Additional certification required,26
+Maharashtra,Food,Catering,643,Health Clearance;ID Proof;Safety Certificate;Business License,Age: 21+; Permanent Residence: No; Taxable Income: ?40000+,State residency required,17
+Maharashtra,Food,Street Food,401,ID Proof;Health Clearance;Safety Certificate,Age: 30+; Permanent Residence: No; Taxable Income: ?50000+,Additional certification required,16
+Maharashtra,Cloth,Boutique,966,Tax Registration;Safety Certificate;Address Proof,Age: 25+; Permanent Residence: No; Taxable Income: ?30000+,No specific state variation,28
+Maharashtra,Cloth,Online Store,569,Safety Certificate;Tax Registration,Age: 21+; Permanent Residence: Yes; Taxable Income: ?30000+,State residency required,14
+Maharashtra,Cloth,Garment Manufacturing,855,ID Proof;Business License;Tax Registration;Safety Certificate,Age: 30+; Permanent Residence: No; Taxable Income: ?30000+,Additional certification required,9
+Maharashtra,Real Estate,Agent,915,ID Proof;Health Clearance;Business License,Age: 30+; Permanent Residence: No; Taxable Income: ?50000+,Additional certification required,12
+Maharashtra,Real Estate,Broker,516,Business License;Health Clearance;Address Proof,Age: 18+; Permanent Residence: Yes; Taxable Income: ?50000+,State residency required,19
+Maharashtra,Real Estate,Property Management,954,Address Proof;Health Clearance;Tax Registration;Business License,Age: 21+; Permanent Residence: Yes; Taxable Income: ?40000+,State residency required,25
+Maharashtra,Travel,Travel Agency,328,Business License;Address Proof;ID Proof,Age: 30+; Permanent Residence: No; Taxable Income: ?30000+,State residency required,17
+Maharashtra,Travel,Tour Guide,625,Business License;Address Proof,Age: 21+; Permanent Residence: Yes; Taxable Income: ?30000+,Additional certification required,27
+Maharashtra,Travel,Transport Services,523,Address Proof;Health Clearance;Business License;ID Proof,Age: 21+; Permanent Residence: Yes; Taxable Income: ?40000+,State residency required,28
+Maharashtra,Metalworks,Fabrication,282,Safety Certificate;ID Proof;Address Proof,Age: 18+; Permanent Residence: Yes; Taxable Income: ?50000+,Additional certification required,28
+Maharashtra,Metalworks,Blacksmithing,727,Health Clearance;Tax Registration;ID Proof,Age: 25+; Permanent Residence: No; Taxable Income: ?60000+,State residency required,16
+Maharashtra,Metalworks,Welding,901,Address Proof;Tax Registration,Age: 25+; Permanent Residence: Yes; Taxable Income: ?50000+,State residency required,15
+Manipur,Food,Restaurant,610,Address Proof;Tax Registration,Age: 25+; Permanent Residence: Yes; Taxable Income: ?50000+,State residency required,16
+Manipur,Food,Catering,992,Health Clearance;Address Proof;ID Proof;Tax Registration,Age: 30+; Permanent Residence: No; Taxable Income: ?60000+,No specific state variation,29
+Manipur,Food,Street Food,410,Health Clearance;ID Proof,Age: 18+; Permanent Residence: Yes; Taxable Income: ?40000+,Additional certification required,22
+Manipur,Cloth,Boutique,270,Address Proof;Business License;Tax Registration;ID Proof,Age: 25+; Permanent Residence: Yes; Taxable Income: ?50000+,State residency required,12
+Manipur,Cloth,Online Store,743,Business License;Safety Certificate;ID Proof;Tax Registration,Age: 30+; Permanent Residence: Yes; Taxable Income: ?60000+,Additional certification required,29
+Manipur,Cloth,Garment Manufacturing,402,Address Proof;Safety Certificate;Health Clearance;Tax Registration,Age: 25+; Permanent Residence: No; Taxable Income: ?60000+,State residency required,26
+Manipur,Real Estate,Agent,496,Business License;ID Proof;Safety Certificate;Tax Registration,Age: 30+; Permanent Residence: No; Taxable Income: ?40000+,State residency required,19
+Manipur,Real Estate,Broker,391,Safety Certificate;ID Proof;Tax Registration;Address Proof,Age: 25+; Permanent Residence: No; Taxable Income: ?50000+,Additional certification required,16
+Manipur,Real Estate,Property Management,801,Safety Certificate;Address Proof;Business License;Tax Registration,Age: 21+; Permanent Residence: No; Taxable Income: ?50000+,State residency required,8
+Manipur,Travel,Travel Agency,863,Health Clearance;Tax Registration;Safety Certificate;ID Proof,Age: 21+; Permanent Residence: Yes; Taxable Income: ?40000+,Additional certification required,18
+Manipur,Travel,Tour Guide,952,Health Clearance;Address Proof,Age: 18+; Permanent Residence: No; Taxable Income: ?30000+,Additional certification required,12
+Manipur,Travel,Transport Services,567,Health Clearance;Tax Registration,Age: 18+; Permanent Residence: No; Taxable Income: ?30000+,Additional certification required,30
+Manipur,Metalworks,Fabrication,426,Safety Certificate;Address Proof;Tax Registration;Health Clearance,Age: 21+; Permanent Residence: Yes; Taxable Income: ?60000+,No specific state variation,13
+Manipur,Metalworks,Blacksmithing,243,Health Clearance;Address Proof;ID Proof,Age: 30+; Permanent Residence: No; Taxable Income: ?30000+,State residency required,20
+Manipur,Metalworks,Welding,387,Health Clearance;Address Proof;Business License;Tax Registration,Age: 18+; Permanent Residence: No; Taxable Income: ?30000+,No specific state variation,27
+Meghalaya,Food,Restaurant,949,Health Clearance;Business License;ID Proof,Age: 18+; Permanent Residence: Yes; Taxable Income: ?50000+,Additional certification required,16
+Meghalaya,Food,Catering,953,Address Proof;ID Proof,Age: 18+; Permanent Residence: No; Taxable Income: ?30000+,Additional certification required,28
+Meghalaya,Food,Street Food,419,Health Clearance;ID Proof,Age: 30+; Permanent Residence: No; Taxable Income: ?40000+,State residency required,14
+Meghalaya,Cloth,Boutique,668,Tax Registration;Health Clearance;ID Proof;Address Proof,Age: 25+; Permanent Residence: Yes; Taxable Income: ?60000+,Additional certification required,18
+Meghalaya,Cloth,Online Store,726,Business License;ID Proof;Tax Registration,Age: 21+; Permanent Residence: No; Taxable Income: ?30000+,Additional certification required,15
+Meghalaya,Cloth,Garment Manufacturing,929,Address Proof;Health Clearance,Age: 18+; Permanent Residence: Yes; Taxable Income: ?30000+,State residency required,27
+Meghalaya,Real Estate,Agent,849,Health Clearance;Safety Certificate,Age: 25+; Permanent Residence: No; Taxable Income: ?30000+,No specific state variation,7
+Meghalaya,Real Estate,Broker,823,Business License;Tax Registration;Address Proof;Health Clearance,Age: 21+; Permanent Residence: No; Taxable Income: ?60000+,No specific state variation,12
+Meghalaya,Real Estate,Property Management,435,Tax Registration;Address Proof,Age: 30+; Permanent Residence: Yes; Taxable Income: ?40000+,Additional certification required,12
+Meghalaya,Travel,Travel Agency,511,Tax Registration;ID Proof;Business License;Address Proof,Age: 18+; Permanent Residence: Yes; Taxable Income: ?60000+,Additional certification required,19
+Meghalaya,Travel,Tour Guide,120,Address Proof;Safety Certificate,Age: 18+; Permanent Residence: No; Taxable Income: ?60000+,No specific state variation,23
+Meghalaya,Travel,Transport Services,365,ID Proof;Business License;Safety Certificate;Health Clearance,Age: 30+; Permanent Residence: No; Taxable Income: ?50000+,No specific state variation,9
+Meghalaya,Metalworks,Fabrication,517,Health Clearance;Safety Certificate,Age: 21+; Permanent Residence: Yes; Taxable Income: ?30000+,No specific state variation,28
+Meghalaya,Metalworks,Blacksmithing,630,Safety Certificate;Business License;ID Proof,Age: 21+; Permanent Residence: Yes; Taxable Income: ?60000+,State residency required,22
+Meghalaya,Metalworks,Welding,298,Business License;Safety Certificate;ID Proof;Health Clearance,Age: 25+; Permanent Residence: No; Taxable Income: ?30000+,Additional certification required,23
+Mizoram,Food,Restaurant,971,Address Proof;Health Clearance;Business License;Tax Registration,Age: 21+; Permanent Residence: No; Taxable Income: ?40000+,No specific state variation,16
+Mizoram,Food,Catering,519,ID Proof;Business License;Safety Certificate,Age: 30+; Permanent Residence: Yes; Taxable Income: ?30000+,No specific state variation,25
+Mizoram,Food,Street Food,357,Safety Certificate;Tax Registration,Age: 30+; Permanent Residence: No; Taxable Income: ?30000+,No specific state variation,19
+Mizoram,Cloth,Boutique,790,ID Proof;Tax Registration;Health Clearance;Address Proof,Age: 30+; Permanent Residence: No; Taxable Income: ?60000+,State residency required,12
+Mizoram,Cloth,Online Store,301,Business License;Safety Certificate;Address Proof,Age: 21+; Permanent Residence: Yes; Taxable Income: ?50000+,No specific state variation,7
+Mizoram,Cloth,Garment Manufacturing,433,Address Proof;Business License;Health Clearance;Safety Certificate,Age: 25+; Permanent Residence: Yes; Taxable Income: ?40000+,State residency required,8
+Mizoram,Real Estate,Agent,684,Safety Certificate;ID Proof;Address Proof,Age: 21+; Permanent Residence: No; Taxable Income: ?40000+,No specific state variation,15
+Mizoram,Real Estate,Broker,476,Address Proof;ID Proof;Health Clearance,Age: 25+; Permanent Residence: No; Taxable Income: ?30000+,Additional certification required,22
+Mizoram,Real Estate,Property Management,966,Business License;Address Proof;Tax Registration;ID Proof,Age: 25+; Permanent Residence: Yes; Taxable Income: ?30000+,No specific state variation,22
+Mizoram,Travel,Travel Agency,937,Address Proof;Safety Certificate,Age: 30+; Permanent Residence: Yes; Taxable Income: ?60000+,No specific state variation,21
+Mizoram,Travel,Tour Guide,648,Health Clearance;Business License;ID Proof,Age: 21+; Permanent Residence: Yes; Taxable Income: ?60000+,No specific state variation,8
+Mizoram,Travel,Transport Services,449,Address Proof;Tax Registration;Business License,Age: 30+; Permanent Residence: No; Taxable Income: ?40000+,No specific state variation,22
+Mizoram,Metalworks,Fabrication,139,Safety Certificate;ID Proof;Business License,Age: 21+; Permanent Residence: Yes; Taxable Income: ?40000+,No specific state variation,21
+Mizoram,Metalworks,Blacksmithing,242,Safety Certificate;Health Clearance;ID Proof,Age: 21+; Permanent Residence: No; Taxable Income: ?30000+,No specific state variation,26
+Mizoram,Metalworks,Welding,196,ID Proof;Health Clearance;Tax Registration;Address Proof,Age: 30+; Permanent Residence: Yes; Taxable Income: ?40000+,No specific state variation,26
+Nagaland,Food,Restaurant,877,Business License;Health Clearance;Tax Registration;Address Proof,Age: 21+; Permanent Residence: Yes; Taxable Income: ?40000+,Additional certification required,15
+Nagaland,Food,Catering,685,Business License;Tax Registration,Age: 18+; Permanent Residence: No; Taxable Income: ?60000+,State residency required,13
+Nagaland,Food,Street Food,136,Health Clearance;Tax Registration,Age: 18+; Permanent Residence: No; Taxable Income: ?30000+,Additional certification required,11
+Nagaland,Cloth,Boutique,993,ID Proof;Tax Registration;Health Clearance,Age: 18+; Permanent Residence: Yes; Taxable Income: ?60000+,No specific state variation,28
+Nagaland,Cloth,Online Store,929,Health Clearance;Tax Registration;Safety Certificate;ID Proof,Age: 21+; Permanent Residence: Yes; Taxable Income: ?40000+,State residency required,30
+Nagaland,Cloth,Garment Manufacturing,472,Health Clearance;Address Proof;ID Proof,Age: 25+; Permanent Residence: No; Taxable Income: ?40000+,State residency required,9
+Nagaland,Real Estate,Agent,432,Address Proof;Business License,Age: 25+; Permanent Residence: No; Taxable Income: ?30000+,Additional certification required,20
+Nagaland,Real Estate,Broker,855,Health Clearance;ID Proof;Business License,Age: 18+; Permanent Residence: Yes; Taxable Income: ?30000+,State residency required,8
+Nagaland,Real Estate,Property Management,241,ID Proof;Tax Registration;Safety Certificate;Health Clearance,Age: 21+; Permanent Residence: No; Taxable Income: ?50000+,Additional certification required,28
+Nagaland,Travel,Travel Agency,520,Safety Certificate;ID Proof;Health Clearance,Age: 21+; Permanent Residence: Yes; Taxable Income: ?60000+,State residency required,26
+Nagaland,Travel,Tour Guide,106,Health Clearance;Business License;Tax Registration;Safety Certificate,Age: 25+; Permanent Residence: Yes; Taxable Income: ?30000+,Additional certification required,8
+Nagaland,Travel,Transport Services,877,Tax Registration;Safety Certificate;Business License,Age: 25+; Permanent Residence: Yes; Taxable Income: ?50000+,No specific state variation,23
+Nagaland,Metalworks,Fabrication,740,Health Clearance;ID Proof;Business License;Tax Registration,Age: 30+; Permanent Residence: Yes; Taxable Income: ?30000+,Additional certification required,29
+Nagaland,Metalworks,Blacksmithing,681,ID Proof;Health Clearance,Age: 18+; Permanent Residence: No; Taxable Income: ?40000+,Additional certification required,22
+Nagaland,Metalworks,Welding,220,ID Proof;Health Clearance;Address Proof;Business License,Age: 21+; Permanent Residence: Yes; Taxable Income: ?60000+,Additional certification required,19
+Odisha,Food,Restaurant,517,Tax Registration;Address Proof,Age: 18+; Permanent Residence: No; Taxable Income: ?40000+,State residency required,28
+Odisha,Food,Catering,156,Safety Certificate;Business License;ID Proof,Age: 25+; Permanent Residence: Yes; Taxable Income: ?60000+,State residency required,24
+Odisha,Food,Street Food,566,Address Proof;Safety Certificate,Age: 30+; Permanent Residence: Yes; Taxable Income: ?30000+,State residency required,14
+Odisha,Cloth,Boutique,133,Health Clearance;ID Proof;Safety Certificate;Address Proof,Age: 18+; Permanent Residence: Yes; Taxable Income: ?60000+,No specific state variation,19
+Odisha,Cloth,Online Store,259,Address Proof;ID Proof;Tax Registration;Health Clearance,Age: 21+; Permanent Residence: No; Taxable Income: ?60000+,Additional certification required,17
+Odisha,Cloth,Garment Manufacturing,860,Tax Registration;Business License;ID Proof;Health Clearance,Age: 18+; Permanent Residence: No; Taxable Income: ?40000+,Additional certification required,10
+Odisha,Real Estate,Agent,181,Business License;Safety Certificate;Address Proof,Age: 18+; Permanent Residence: No; Taxable Income: ?60000+,No specific state variation,9
+Odisha,Real Estate,Broker,630,Business License;ID Proof,Age: 21+; Permanent Residence: Yes; Taxable Income: ?60000+,No specific state variation,25
+Odisha,Real Estate,Property Management,845,Safety Certificate;ID Proof;Health Clearance,Age: 21+; Permanent Residence: Yes; Taxable Income: ?40000+,Additional certification required,28
+Odisha,Travel,Travel Agency,212,ID Proof;Tax Registration;Business License,Age: 25+; Permanent Residence: No; Taxable Income: ?40000+,No specific state variation,18
+Odisha,Travel,Tour Guide,338,Safety Certificate;Address Proof;ID Proof;Health Clearance,Age: 18+; Permanent Residence: No; Taxable Income: ?30000+,No specific state variation,16
+Odisha,Travel,Transport Services,940,Business License;ID Proof,Age: 18+; Permanent Residence: Yes; Taxable Income: ?30000+,State residency required,9
+Odisha,Metalworks,Fabrication,267,Tax Registration;Business License;Health Clearance,Age: 21+; Permanent Residence: Yes; Taxable Income: ?40000+,No specific state variation,26
+Odisha,Metalworks,Blacksmithing,507,Safety Certificate;Address Proof,Age: 18+; Permanent Residence: Yes; Taxable Income: ?30000+,Additional certification required,10
+Odisha,Metalworks,Welding,900,Health Clearance;Business License,Age: 21+; Permanent Residence: No; Taxable Income: ?30000+,No specific state variation,26
+Punjab,Food,Restaurant,837,Address Proof;Health Clearance;Business License,Age: 21+; Permanent Residence: No; Taxable Income: ?50000+,State residency required,24
+Punjab,Food,Catering,457,ID Proof;Tax Registration;Business License;Address Proof,Age: 25+; Permanent Residence: Yes; Taxable Income: ?60000+,Additional certification required,15
+Punjab,Food,Street Food,640,Tax Registration;Business License,Age: 21+; Permanent Residence: No; Taxable Income: ?30000+,Additional certification required,23
+Punjab,Cloth,Boutique,244,ID Proof;Address Proof,Age: 21+; Permanent Residence: No; Taxable Income: ?50000+,State residency required,21
+Punjab,Cloth,Online Store,189,Safety Certificate;Tax Registration;Business License;Address Proof,Age: 21+; Permanent Residence: Yes; Taxable Income: ?30000+,State residency required,17
+Punjab,Cloth,Garment Manufacturing,270,Address Proof;Safety Certificate;Business License,Age: 30+; Permanent Residence: No; Taxable Income: ?40000+,No specific state variation,8
+Punjab,Real Estate,Agent,712,Health Clearance;ID Proof,Age: 25+; Permanent Residence: No; Taxable Income: ?50000+,No specific state variation,19
+Punjab,Real Estate,Broker,128,ID Proof;Tax Registration;Business License;Health Clearance,Age: 18+; Permanent Residence: Yes; Taxable Income: ?40000+,No specific state variation,8
+Punjab,Real Estate,Property Management,933,Business License;Tax Registration;Health Clearance,Age: 30+; Permanent Residence: Yes; Taxable Income: ?40000+,No specific state variation,14
+Punjab,Travel,Travel Agency,800,Address Proof;ID Proof;Business License;Health Clearance,Age: 30+; Permanent Residence: Yes; Taxable Income: ?60000+,No specific state variation,14
+Punjab,Travel,Tour Guide,917,Safety Certificate;Business License;Health Clearance,Age: 18+; Permanent Residence: No; Taxable Income: ?60000+,Additional certification required,15
+Punjab,Travel,Transport Services,758,ID Proof;Address Proof,Age: 30+; Permanent Residence: No; Taxable Income: ?60000+,Additional certification required,8
+Punjab,Metalworks,Fabrication,604,Health Clearance;ID Proof,Age: 21+; Permanent Residence: No; Taxable Income: ?30000+,State residency required,23
+Punjab,Metalworks,Blacksmithing,421,ID Proof;Tax Registration,Age: 18+; Permanent Residence: No; Taxable Income: ?40000+,State residency required,22
+Punjab,Metalworks,Welding,337,Tax Registration;Address Proof,Age: 21+; Permanent Residence: Yes; Taxable Income: ?30000+,State residency required,11
+Rajasthan,Food,Restaurant,552,Address Proof;Safety Certificate;ID Proof,Age: 25+; Permanent Residence: Yes; Taxable Income: ?30000+,State residency required,8
+Rajasthan,Food,Catering,531,Business License;ID Proof;Tax Registration;Address Proof,Age: 25+; Permanent Residence: Yes; Taxable Income: ?60000+,State residency required,7
+Rajasthan,Food,Street Food,132,Safety Certificate;Tax Registration,Age: 25+; Permanent Residence: No; Taxable Income: ?40000+,State residency required,17
+Rajasthan,Cloth,Boutique,890,Health Clearance;Business License;ID Proof,Age: 25+; Permanent Residence: Yes; Taxable Income: ?40000+,No specific state variation,27
+Rajasthan,Cloth,Online Store,956,Health Clearance;Business License;Safety Certificate,Age: 25+; Permanent Residence: No; Taxable Income: ?60000+,No specific state variation,11
+Rajasthan,Cloth,Garment Manufacturing,308,Business License;Health Clearance;ID Proof;Address Proof,Age: 30+; Permanent Residence: No; Taxable Income: ?50000+,State residency required,29
+Rajasthan,Real Estate,Agent,622,Health Clearance;Safety Certificate;ID Proof;Address Proof,Age: 21+; Permanent Residence: No; Taxable Income: ?50000+,Additional certification required,21
+Rajasthan,Real Estate,Broker,752,Health Clearance;Safety Certificate;Tax Registration;ID Proof,Age: 18+; Permanent Residence: Yes; Taxable Income: ?40000+,State residency required,15
+Rajasthan,Real Estate,Property Management,316,Address Proof;Health Clearance;Safety Certificate,Age: 30+; Permanent Residence: Yes; Taxable Income: ?40000+,State residency required,18
+Rajasthan,Travel,Travel Agency,463,Tax Registration;Safety Certificate;Address Proof;ID Proof,Age: 25+; Permanent Residence: Yes; Taxable Income: ?60000+,Additional certification required,18
+Rajasthan,Travel,Tour Guide,124,Tax Registration;Address Proof;ID Proof,Age: 25+; Permanent Residence: Yes; Taxable Income: ?60000+,Additional certification required,7
+Rajasthan,Travel,Transport Services,142,Business License;Safety Certificate,Age: 21+; Permanent Residence: Yes; Taxable Income: ?60000+,State residency required,10
+Rajasthan,Metalworks,Fabrication,254,Business License;Health Clearance,Age: 30+; Permanent Residence: No; Taxable Income: ?50000+,State residency required,12
+Rajasthan,Metalworks,Blacksmithing,255,Health Clearance;Business License,Age: 25+; Permanent Residence: No; Taxable Income: ?60000+,State residency required,24
+Rajasthan,Metalworks,Welding,220,Business License;Health Clearance;Safety Certificate,Age: 25+; Permanent Residence: Yes; Taxable Income: ?50000+,State residency required,23
+Sikkim,Food,Restaurant,407,Safety Certificate;ID Proof,Age: 21+; Permanent Residence: Yes; Taxable Income: ?50000+,State residency required,16
+Sikkim,Food,Catering,777,Business License;Health Clearance;Address Proof;ID Proof,Age: 30+; Permanent Residence: No; Taxable Income: ?60000+,State residency required,17
+Sikkim,Food,Street Food,482,Address Proof;Tax Registration;Safety Certificate;Business License,Age: 18+; Permanent Residence: Yes; Taxable Income: ?50000+,State residency required,29
+Sikkim,Cloth,Boutique,325,ID Proof;Health Clearance,Age: 21+; Permanent Residence: No; Taxable Income: ?40000+,No specific state variation,13
+Sikkim,Cloth,Online Store,961,Tax Registration;Safety Certificate;Address Proof;ID Proof,Age: 21+; Permanent Residence: No; Taxable Income: ?50000+,State residency required,21
+Sikkim,Cloth,Garment Manufacturing,832,Business License;ID Proof;Safety Certificate,Age: 25+; Permanent Residence: Yes; Taxable Income: ?40000+,No specific state variation,10
+Sikkim,Real Estate,Agent,156,Safety Certificate;Address Proof;Business License;ID Proof,Age: 21+; Permanent Residence: Yes; Taxable Income: ?30000+,No specific state variation,25
+Sikkim,Real Estate,Broker,992,Business License;Safety Certificate;ID Proof;Tax Registration,Age: 18+; Permanent Residence: No; Taxable Income: ?60000+,Additional certification required,28
+Sikkim,Real Estate,Property Management,309,Tax Registration;ID Proof,Age: 25+; Permanent Residence: No; Taxable Income: ?60000+,State residency required,30
+Sikkim,Travel,Travel Agency,181,Address Proof;Business License;Safety Certificate;Health Clearance,Age: 25+; Permanent Residence: Yes; Taxable Income: ?60000+,No specific state variation,28
+Sikkim,Travel,Tour Guide,611,Tax Registration;ID Proof;Health Clearance,Age: 25+; Permanent Residence: Yes; Taxable Income: ?30000+,State residency required,28
+Sikkim,Travel,Transport Services,687,Address Proof;Health Clearance,Age: 18+; Permanent Residence: Yes; Taxable Income: ?50000+,State residency required,29
+Sikkim,Metalworks,Fabrication,194,ID Proof;Tax Registration,Age: 30+; Permanent Residence: No; Taxable Income: ?50000+,Additional certification required,28
+Sikkim,Metalworks,Blacksmithing,593,Safety Certificate;Health Clearance,Age: 21+; Permanent Residence: No; Taxable Income: ?60000+,Additional certification required,12
+Sikkim,Metalworks,Welding,187,Address Proof;ID Proof,Age: 25+; Permanent Residence: Yes; Taxable Income: ?60000+,State residency required,16
+Tamil Nadu,Food,Restaurant,254,Health Clearance;Safety Certificate,Age: 25+; Permanent Residence: No; Taxable Income: ?30000+,State residency required,29
+Tamil Nadu,Food,Catering,462,Health Clearance;Address Proof;Tax Registration;ID Proof,Age: 18+; Permanent Residence: Yes; Taxable Income: ?40000+,State residency required,23
+Tamil Nadu,Food,Street Food,362,Tax Registration;Address Proof,Age: 18+; Permanent Residence: No; Taxable Income: ?30000+,No specific state variation,20
+Tamil Nadu,Cloth,Boutique,194,Address Proof;Tax Registration,Age: 25+; Permanent Residence: Yes; Taxable Income: ?30000+,No specific state variation,20
+Tamil Nadu,Cloth,Online Store,381,Business License;Health Clearance;Safety Certificate,Age: 30+; Permanent Residence: Yes; Taxable Income: ?60000+,Additional certification required,26
+Tamil Nadu,Cloth,Garment Manufacturing,638,ID Proof;Address Proof;Health Clearance,Age: 25+; Permanent Residence: Yes; Taxable Income: ?50000+,State residency required,23
+Tamil Nadu,Real Estate,Agent,104,ID Proof;Health Clearance;Tax Registration,Age: 25+; Permanent Residence: Yes; Taxable Income: ?50000+,State residency required,20
+Tamil Nadu,Real Estate,Broker,566,Business License;Address Proof,Age: 21+; Permanent Residence: No; Taxable Income: ?30000+,Additional certification required,15
+Tamil Nadu,Real Estate,Property Management,787,Tax Registration;Address Proof,Age: 25+; Permanent Residence: No; Taxable Income: ?30000+,Additional certification required,26
+Tamil Nadu,Travel,Travel Agency,891,Health Clearance;Tax Registration,Age: 25+; Permanent Residence: Yes; Taxable Income: ?60000+,No specific state variation,27
+Tamil Nadu,Travel,Tour Guide,885,ID Proof;Business License,Age: 25+; Permanent Residence: No; Taxable Income: ?30000+,Additional certification required,11
+Tamil Nadu,Travel,Transport Services,1000,Safety Certificate;ID Proof;Health Clearance;Address Proof,Age: 21+; Permanent Residence: Yes; Taxable Income: ?50000+,State residency required,25
+Tamil Nadu,Metalworks,Fabrication,494,ID Proof;Safety Certificate;Address Proof,Age: 18+; Permanent Residence: No; Taxable Income: ?60000+,No specific state variation,17
+Tamil Nadu,Metalworks,Blacksmithing,544,Business License;ID Proof;Address Proof,Age: 25+; Permanent Residence: Yes; Taxable Income: ?60000+,State residency required,8
+Tamil Nadu,Metalworks,Welding,178,Health Clearance;Safety Certificate;ID Proof;Tax Registration,Age: 25+; Permanent Residence: No; Taxable Income: ?40000+,No specific state variation,8
+Telangana,Food,Restaurant,723,ID Proof;Safety Certificate;Address Proof;Tax Registration,Age: 25+; Permanent Residence: Yes; Taxable Income: ?50000+,No specific state variation,23
+Telangana,Food,Catering,480,Tax Registration;ID Proof;Business License,Age: 25+; Permanent Residence: Yes; Taxable Income: ?60000+,No specific state variation,10
+Telangana,Food,Street Food,964,ID Proof;Address Proof;Business License,Age: 18+; Permanent Residence: No; Taxable Income: ?30000+,Additional certification required,27
+Telangana,Cloth,Boutique,533,Safety Certificate;ID Proof;Address Proof,Age: 21+; Permanent Residence: Yes; Taxable Income: ?30000+,No specific state variation,18
+Telangana,Cloth,Online Store,248,Tax Registration;Health Clearance;ID Proof;Safety Certificate,Age: 25+; Permanent Residence: No; Taxable Income: ?60000+,No specific state variation,27
+Telangana,Cloth,Garment Manufacturing,424,ID Proof;Tax Registration,Age: 21+; Permanent Residence: Yes; Taxable Income: ?40000+,State residency required,25
+Telangana,Real Estate,Agent,389,Business License;Health Clearance;ID Proof,Age: 25+; Permanent Residence: Yes; Taxable Income: ?60000+,State residency required,8
+Telangana,Real Estate,Broker,274,Tax Registration;Address Proof;ID Proof;Safety Certificate,Age: 18+; Permanent Residence: No; Taxable Income: ?60000+,No specific state variation,21
+Telangana,Real Estate,Property Management,620,Safety Certificate;ID Proof;Address Proof,Age: 18+; Permanent Residence: Yes; Taxable Income: ?30000+,Additional certification required,14
+Telangana,Travel,Travel Agency,358,Safety Certificate;Health Clearance,Age: 25+; Permanent Residence: No; Taxable Income: ?40000+,State residency required,19
+Telangana,Travel,Tour Guide,704,Tax Registration;Address Proof;ID Proof;Health Clearance,Age: 25+; Permanent Residence: No; Taxable Income: ?40000+,Additional certification required,19
+Telangana,Travel,Transport Services,490,Business License;ID Proof;Safety Certificate;Address Proof,Age: 30+; Permanent Residence: Yes; Taxable Income: ?30000+,Additional certification required,28
+Telangana,Metalworks,Fabrication,470,Safety Certificate;Business License,Age: 30+; Permanent Residence: Yes; Taxable Income: ?60000+,State residency required,27
+Telangana,Metalworks,Blacksmithing,622,Health Clearance;Address Proof,Age: 18+; Permanent Residence: Yes; Taxable Income: ?60000+,Additional certification required,8
+Telangana,Metalworks,Welding,722,Business License;ID Proof,Age: 18+; Permanent Residence: No; Taxable Income: ?50000+,Additional certification required,15
+Tripura,Food,Restaurant,436,Health Clearance;Safety Certificate;Business License,Age: 25+; Permanent Residence: No; Taxable Income: ?60000+,No specific state variation,9
+Tripura,Food,Catering,184,Tax Registration;Safety Certificate;ID Proof;Address Proof,Age: 18+; Permanent Residence: Yes; Taxable Income: ?50000+,No specific state variation,19
+Tripura,Food,Street Food,291,ID Proof;Business License,Age: 18+; Permanent Residence: No; Taxable Income: ?60000+,No specific state variation,23
+Tripura,Cloth,Boutique,161,Business License;ID Proof;Address Proof;Health Clearance,Age: 21+; Permanent Residence: Yes; Taxable Income: ?40000+,Additional certification required,20
+Tripura,Cloth,Online Store,665,Health Clearance;Business License;Safety Certificate;Tax Registration,Age: 30+; Permanent Residence: Yes; Taxable Income: ?30000+,No specific state variation,30
+Tripura,Cloth,Garment Manufacturing,504,Safety Certificate;ID Proof,Age: 30+; Permanent Residence: No; Taxable Income: ?60000+,State residency required,19
+Tripura,Real Estate,Agent,215,Safety Certificate;Tax Registration,Age: 21+; Permanent Residence: No; Taxable Income: ?60000+,State residency required,25
+Tripura,Real Estate,Broker,892,ID Proof;Safety Certificate,Age: 21+; Permanent Residence: Yes; Taxable Income: ?60000+,Additional certification required,7
+Tripura,Real Estate,Property Management,125,Tax Registration;Health Clearance,Age: 21+; Permanent Residence: No; Taxable Income: ?60000+,Additional certification required,29
+Tripura,Travel,Travel Agency,214,Tax Registration;Safety Certificate;Business License,Age: 30+; Permanent Residence: Yes; Taxable Income: ?40000+,State residency required,17
+Tripura,Travel,Tour Guide,183,Health Clearance;Tax Registration;Address Proof,Age: 30+; Permanent Residence: Yes; Taxable Income: ?50000+,State residency required,14
+Tripura,Travel,Transport Services,423,Safety Certificate;Health Clearance;ID Proof,Age: 18+; Permanent Residence: Yes; Taxable Income: ?30000+,Additional certification required,11
+Tripura,Metalworks,Fabrication,708,ID Proof;Business License;Address Proof,Age: 25+; Permanent Residence: Yes; Taxable Income: ?30000+,No specific state variation,24
+Tripura,Metalworks,Blacksmithing,629,Tax Registration;ID Proof;Safety Certificate,Age: 18+; Permanent Residence: Yes; Taxable Income: ?40000+,No specific state variation,22
+Tripura,Metalworks,Welding,113,Address Proof;Tax Registration;Business License;ID Proof,Age: 25+; Permanent Residence: No; Taxable Income: ?40000+,No specific state variation,28
+Uttar Pradesh,Food,Restaurant,688,Tax Registration;Health Clearance;Safety Certificate,Age: 21+; Permanent Residence: No; Taxable Income: ?40000+,Additional certification required,29
+Uttar Pradesh,Food,Catering,416,Business License;Tax Registration;Safety Certificate;Address Proof,Age: 25+; Permanent Residence: Yes; Taxable Income: ?60000+,No specific state variation,15
+Uttar Pradesh,Food,Street Food,995,Safety Certificate;Address Proof;ID Proof;Business License,Age: 25+; Permanent Residence: No; Taxable Income: ?60000+,No specific state variation,28
+Uttar Pradesh,Cloth,Boutique,982,Health Clearance;Business License;Safety Certificate,Age: 21+; Permanent Residence: Yes; Taxable Income: ?50000+,Additional certification required,15
+Uttar Pradesh,Cloth,Online Store,209,Health Clearance;ID Proof;Business License,Age: 30+; Permanent Residence: Yes; Taxable Income: ?40000+,No specific state variation,18
+Uttar Pradesh,Cloth,Garment Manufacturing,643,ID Proof;Business License;Address Proof;Safety Certificate,Age: 21+; Permanent Residence: Yes; Taxable Income: ?50000+,Additional certification required,24
+Uttar Pradesh,Real Estate,Agent,388,Business License;Safety Certificate;Address Proof,Age: 21+; Permanent Residence: No; Taxable Income: ?60000+,Additional certification required,13
+Uttar Pradesh,Real Estate,Broker,181,Business License;ID Proof;Address Proof,Age: 30+; Permanent Residence: No; Taxable Income: ?50000+,No specific state variation,26
+Uttar Pradesh,Real Estate,Property Management,381,Health Clearance;ID Proof,Age: 30+; Permanent Residence: Yes; Taxable Income: ?40000+,State residency required,13
+Uttar Pradesh,Travel,Travel Agency,292,Health Clearance;Tax Registration;Address Proof;Safety Certificate,Age: 21+; Permanent Residence: No; Taxable Income: ?60000+,No specific state variation,13
+Uttar Pradesh,Travel,Tour Guide,643,ID Proof;Health Clearance;Safety Certificate,Age: 18+; Permanent Residence: No; Taxable Income: ?50000+,Additional certification required,13
+Uttar Pradesh,Travel,Transport Services,606,Business License;Address Proof;Health Clearance;ID Proof,Age: 21+; Permanent Residence: No; Taxable Income: ?30000+,No specific state variation,23
+Uttar Pradesh,Metalworks,Fabrication,709,Health Clearance;Safety Certificate,Age: 21+; Permanent Residence: No; Taxable Income: ?40000+,Additional certification required,30
+Uttar Pradesh,Metalworks,Blacksmithing,517,ID Proof;Safety Certificate;Health Clearance,Age: 21+; Permanent Residence: No; Taxable Income: ?40000+,State residency required,12
+Uttar Pradesh,Metalworks,Welding,143,ID Proof;Tax Registration;Address Proof;Health Clearance,Age: 21+; Permanent Residence: No; Taxable Income: ?40000+,No specific state variation,7
+Uttarakhand,Food,Restaurant,467,ID Proof;Safety Certificate;Health Clearance;Business License,Age: 30+; Permanent Residence: Yes; Taxable Income: ?30000+,Additional certification required,22
+Uttarakhand,Food,Catering,275,Address Proof;Business License;Tax Registration,Age: 18+; Permanent Residence: No; Taxable Income: ?60000+,No specific state variation,24
+Uttarakhand,Food,Street Food,946,Tax Registration;Address Proof;ID Proof,Age: 30+; Permanent Residence: Yes; Taxable Income: ?50000+,No specific state variation,17
+Uttarakhand,Cloth,Boutique,750,Address Proof;Safety Certificate,Age: 21+; Permanent Residence: No; Taxable Income: ?30000+,No specific state variation,13
+Uttarakhand,Cloth,Online Store,499,Health Clearance;Business License;Safety Certificate;Tax Registration,Age: 25+; Permanent Residence: No; Taxable Income: ?50000+,State residency required,19
+Uttarakhand,Cloth,Garment Manufacturing,507,Safety Certificate;Health Clearance,Age: 18+; Permanent Residence: Yes; Taxable Income: ?40000+,No specific state variation,27
+Uttarakhand,Real Estate,Agent,926,Address Proof;ID Proof;Safety Certificate;Health Clearance,Age: 21+; Permanent Residence: No; Taxable Income: ?40000+,State residency required,12
+Uttarakhand,Real Estate,Broker,477,Health Clearance;Tax Registration;Business License;ID Proof,Age: 30+; Permanent Residence: No; Taxable Income: ?50000+,Additional certification required,28
+Uttarakhand,Real Estate,Property Management,205,Tax Registration;Health Clearance;Safety Certificate;Address Proof,Age: 18+; Permanent Residence: No; Taxable Income: ?50000+,Additional certification required,27
+Uttarakhand,Travel,Travel Agency,707,Address Proof;Health Clearance;Tax Registration;Safety Certificate,Age: 30+; Permanent Residence: Yes; Taxable Income: ?50000+,No specific state variation,10
+Uttarakhand,Travel,Tour Guide,805,Tax Registration;Health Clearance,Age: 25+; Permanent Residence: Yes; Taxable Income: ?30000+,Additional certification required,28
+Uttarakhand,Travel,Transport Services,945,Safety Certificate;Address Proof;Business License,Age: 21+; Permanent Residence: No; Taxable Income: ?30000+,No specific state variation,15
+Uttarakhand,Metalworks,Fabrication,418,ID Proof;Business License;Address Proof;Health Clearance,Age: 21+; Permanent Residence: Yes; Taxable Income: ?50000+,No specific state variation,29
+Uttarakhand,Metalworks,Blacksmithing,310,Address Proof;Health Clearance,Age: 30+; Permanent Residence: Yes; Taxable Income: ?60000+,State residency required,17
+Uttarakhand,Metalworks,Welding,247,Business License;Health Clearance;Address Proof,Age: 25+; Permanent Residence: No; Taxable Income: ?50000+,No specific state variation,16
+West Bengal,Food,Restaurant,295,Tax Registration;Safety Certificate;Health Clearance;Address Proof,Age: 25+; Permanent Residence: Yes; Taxable Income: ?50000+,No specific state variation,21
+West Bengal,Food,Catering,750,Address Proof;Health Clearance;ID Proof;Business License,Age: 21+; Permanent Residence: Yes; Taxable Income: ?40000+,State residency required,8
+West Bengal,Food,Street Food,909,Address Proof;Tax Registration;Safety Certificate,Age: 21+; Permanent Residence: Yes; Taxable Income: ?40000+,State residency required,9
+West Bengal,Cloth,Boutique,538,ID Proof;Safety Certificate;Address Proof;Business License,Age: 25+; Permanent Residence: No; Taxable Income: ?50000+,No specific state variation,10
+West Bengal,Cloth,Online Store,909,Business License;Tax Registration,Age: 18+; Permanent Residence: Yes; Taxable Income: ?40000+,Additional certification required,27
+West Bengal,Cloth,Garment Manufacturing,251,ID Proof;Safety Certificate;Health Clearance,Age: 25+; Permanent Residence: No; Taxable Income: ?50000+,Additional certification required,17
+West Bengal,Real Estate,Agent,996,Health Clearance;Tax Registration,Age: 30+; Permanent Residence: No; Taxable Income: ?30000+,Additional certification required,13
+West Bengal,Real Estate,Broker,277,Business License;Tax Registration,Age: 21+; Permanent Residence: Yes; Taxable Income: ?60000+,No specific state variation,13
+West Bengal,Real Estate,Property Management,513,ID Proof;Safety Certificate;Health Clearance,Age: 25+; Permanent Residence: Yes; Taxable Income: ?40000+,Additional certification required,11
+West Bengal,Travel,Travel Agency,484,Address Proof;ID Proof;Business License;Tax Registration,Age: 21+; Permanent Residence: Yes; Taxable Income: ?30000+,State residency required,17
+West Bengal,Travel,Tour Guide,674,ID Proof;Tax Registration;Health Clearance;Business License,Age: 30+; Permanent Residence: No; Taxable Income: ?30000+,No specific state variation,15
+West Bengal,Travel,Transport Services,988,Health Clearance;Address Proof;Business License,Age: 30+; Permanent Residence: Yes; Taxable Income: ?50000+,Additional certification required,24
+West Bengal,Metalworks,Fabrication,954,Business License;Safety Certificate,Age: 18+; Permanent Residence: Yes; Taxable Income: ?40000+,State residency required,10
+West Bengal,Metalworks,Blacksmithing,355,Address Proof;Health Clearance;Tax Registration,Age: 30+; Permanent Residence: No; Taxable Income: ?40000+,State residency required,17
+West Bengal,Metalworks,Welding,882,Business License;Tax Registration;Address Proof;ID Proof,Age: 21+; Permanent Residence: Yes; Taxable Income: ?40000+,State residency required,28
